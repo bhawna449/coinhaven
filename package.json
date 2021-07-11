@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redis-fast-driver": "^2.1.5"
+  }
+}
